@@ -290,12 +290,6 @@ Restricts the number of records returned.
 
 ---
 
-## 8. Important Notes
-
-- The SQL code functionality has been preserved.
-- Sample employee names were customized.
-- Comments and task descriptions were changed.
-- Database structure, primary keys, columns, filtering conditions, operators, sorting, and query logic were kept functionally unchanged.
 
 ## 9. Learning Outcomes
 
