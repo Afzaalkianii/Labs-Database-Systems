@@ -117,12 +117,6 @@ Courses ───> Professors
 5. Sample data will be inserted.
 6. The queries and table modification operations can be executed.
 
-**Important:** The last part of the script drops the tables and database, so running the complete script will eventually delete the database.
-
-## Sample Data
-
-The project includes sample departments, students, courses, and professors. The person names have been customized while keeping the database structure, relationships, keys, and functionality unchanged.
-
 ## Author
 
 **Lab 03 — University Database**  
