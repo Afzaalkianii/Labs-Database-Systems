@@ -324,32 +324,4 @@ After completing this lab, students should understand how to:
 
 ---
 
-## 8. How to Run the SQL File
 
-1. Open **MySQL Workbench**, phpMyAdmin, or another MySQL-compatible SQL environment.
-2. Open the file:
-   `LAB 10 SCALAR_modified.sql`
-3. Execute the complete script.
-4. The database `scalar_lab` will be created if it does not already exist.
-5. The `Customer` and `Product` tables will be created.
-6. Sample data will be inserted.
-7. Run the Part A queries to see the results of each scalar string function.
-
----
-
-## 9. File Information
-
-**Lab:** 10  
-**Topic:** Scalar Functions – String Operations (Part A)  
-**Roll Number:** 2024-SE_40  
-**Database:** `scalar_lab`  
-**Main Tables:** `Customer`, `Product`  
-**Tasks:** A1–A12
-
----
-
-## 10. Modification Note
-
-The roll number was updated from `2024-SE_31` to `2024-SE_40`.
-
-The SQL database structure, data operations, and query functionality were kept unchanged.
