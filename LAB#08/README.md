@@ -235,12 +235,6 @@ Combines the results of two compatible `SELECT` queries and removes duplicate ro
 
 ---
 
-## 8. Important Notes
-
-- The SQL functionality has been preserved.
-- Sample employee names were customized.
-- Comments and task descriptions were modified.
-- Table structures, primary keys, foreign keys, relationships, JOIN types, conditions, `GROUP BY`, and `UNION` logic were kept functionally unchanged.
 
 ## 9. Learning Outcomes
 
