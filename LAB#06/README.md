@@ -150,13 +150,6 @@ Excludes employees belonging to Marketing and Sales departments.
 
 ---
 
-## 6. Important Notes
-
-- The SQL functionality has been preserved.
-- Employee names were customized.
-- Comments and task descriptions were changed.
-- Table structure, columns, primary key, data values, filtering conditions, operators, and query logic were kept unchanged.
-- The lab focuses on SQL `WHERE` filtering using comparison and logical operators.
 
 ## 7. Learning Outcomes
 
