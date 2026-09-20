@@ -124,9 +124,6 @@ bookstore_norm
 
 **Table:** `OrderBook_1NF`
 
-## Important Note
-
-The sample names were customized only for personalization. The functional dependencies, database name, table name, columns, data types, primary key, SQL operations, and 1NF functionality remain unchanged.
 
 ## Author
 
