@@ -219,9 +219,3 @@ After completing this lab, students should be able to:
 - Retrieve useful information from a relational database.
 
 ---
-
-## 11. Customization Note
-
-The names of persons/authors/members and comments in the modified SQL file were customized for personalization.
-
-**Important:** The database structure, keys, relationships, SQL functionality, and query logic were kept unchanged.
