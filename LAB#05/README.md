@@ -228,13 +228,7 @@ This structure separates patients, doctors, departments, and visits into related
 
 ---
 
-## 9. Important Notes
 
-- The SQL functionality and database relationships have been preserved.
-- Sample person names, emails, and phone numbers were customized.
-- Primary keys, foreign keys, composite keys, table relationships, queries, and normalization logic remain unchanged.
-- The script demonstrates both **2NF** and **3NF** normalization.
-- The hospital section demonstrates the separation of data into related 3NF tables.
 
 ## 10. Learning Outcome
 
